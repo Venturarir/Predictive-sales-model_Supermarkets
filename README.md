@@ -1,2 +1,2 @@
 # Prototyping-with-ML
-Some projects for my master's prototyping class where we had to implement a machine learning model
+This are some projects I develope to prototype some ideas for prototyping master's class
