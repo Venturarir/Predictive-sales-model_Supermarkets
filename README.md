@@ -1,5 +1,5 @@
 # Prototyping-with-ML
-This are some projects I develope to prototype some ideas for prototyping master's class
+This is a project I developed to prototype some ideas for prototyping master's class
 Descriptions of files;
 Product Positioning.csv -> Data used
 Dashboard.py -> File with the dashboard code to execute
