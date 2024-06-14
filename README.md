@@ -1,5 +1,5 @@
 # Prototyping-with-ML
-This is a project I developed to prototype some ideas for prototyping master's class
+This is a project I develope to predict sales volume based on inside Supermarket positioning.
 ## Descriptions of files;
 Product Positioning.csv -> Data used<br>
 Dashboard.py -> File with the dashboard code to execute<br>
